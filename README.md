@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 -->
 <div align="center">
   <a href="https://github.com/henriquelbsouza">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=henriquelbsouza&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=henriquelbsouza&theme=dark&hide_border=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=henriquelbsouza&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=henriquelbsouza&theme=dark&hide_border=true"/>
   </a>
 
   I'm also the creator and maintainer of Gamersclub Booster, an open source chrome extension for counter-strike players at Gamersclub platform. It currently has ![Total downloads](https://img.shields.io/chrome-web-store/users/dahnmmlhchpmmlgebpkpaofbefjdlpin?label=%20) downloads. Click the link below to see the repository and go check it out! :)
