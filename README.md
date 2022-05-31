@@ -29,7 +29,9 @@ Here are some ideas to get you started:
 </div>
 
 <div align="center">
+  
   ![Snake animation](https://github.com/henriquelbsouza/henriquelbsouza/blob/output/github-contribution-grid-snake.svg)
+  
 </div>
 
 ```mermaid
