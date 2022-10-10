@@ -3,6 +3,7 @@ My name is Henrique and I am from Brazil.
 
 I am currently building and breaking software remotely for [Meltwater](https://www.github.com/meltwater).
 
+![](https://komarev.com/ghpvc/?username=henriquelbsouza)
 <div>
   <a href="https://github.com/henriquelbsouza">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=henriquelbsouza&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
