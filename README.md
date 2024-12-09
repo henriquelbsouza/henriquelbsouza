@@ -38,7 +38,7 @@ SENAI/SC           :active,, 2010-01-01,2012-10-01
 Grupo Nexxera                    :active,, 2012-10-01,2014-07-01
 Trier Sistemas                         :active,, 2014-07-01,2016-04-01
 ThoughtWorks               :active,, 2016-04-01,2018-08-01
-Meltwater                           :active,, 2018-08-01,2023-06-01
+Meltwater                           :active,, 2018-08-01,2025-01-01
 ```
 ---
 <div align="center">
